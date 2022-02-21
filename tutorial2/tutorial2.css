@@ -1,0 +1,5 @@
+footer{
+    text-align: center; /*텍스트를 중앙 정렬*/
+    color:rgb(255, 255, 255);
+    background-color:rgb(49, 49, 49);/*color나 배경색이나 순서 상관 없음*/
+}
